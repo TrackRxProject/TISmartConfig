@@ -1,0 +1,2 @@
+include ':viewPagerIndicatorLibrary'
+include ':smartConfig'
